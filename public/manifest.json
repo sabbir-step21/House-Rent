@@ -1,0 +1,21 @@
+{
+  "short_name": "House Rent",
+  "name": "House Rent Management",
+  "icons": [
+    {
+      "src": "image/House_Rent_Gemini_Generated_Image_192_192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "image/House_Rent_Gemini_Generated_Image_512_512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "theme_color": "#10b981",
+  "description": "Manage your house rents offline and on any device."
+}
