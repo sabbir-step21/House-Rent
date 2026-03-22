@@ -1,4 +1,4 @@
-const CACHE_NAME = 'rentmaster-v1';
+const CACHE_NAME = 'house-rent-v1';
 const ASSETS_TO_CACHE = [
   '/',
   '/index.html',
